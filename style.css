@@ -1,0 +1,29 @@
+
+
+nav{
+    float: right;
+}
+
+.column{
+   float: left;
+   width: 33.33%;
+   }
+.row1:after{
+   content: "";
+   display: table;
+   clear: both;
+   }
+.row2:after{
+       content: "";
+       display: table;
+       clear: both;
+       }
+#About{
+    color: brown;
+    font-size: large;
+    font-style: italic;
+    text-align: center;
+} 
+#mine{
+    color: black;
+}
